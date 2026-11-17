@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+
+{% block site_meta %}
+  {#- 构建期就能定当前册，首屏 CSS 即可藏其它册，不必等 location -#}
+  {% set _url = page.url if page else "" %}
+  {% if "01-architecture" in _url %}
+  <script>document.documentElement.setAttribute("data-book","01-architecture");</script>
+  {% elif "02-systems" in _url %}
+  <script>document.documentElement.setAttribute("data-book","02-systems");</script>
+  {% elif "03-post-training" in _url %}
+  <script>document.documentElement.setAttribute("data-book","03-post-training");</script>
+  {% endif %}
+  {{ super() }}
+{% endblock %}

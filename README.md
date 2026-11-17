@@ -9,6 +9,6 @@
 | 第二册 视觉语言建模 | [书稿/第二册 视觉语言建模/00 目录总览.md](书稿/第二册%20视觉语言建模/00%20目录总览.md) |
 | 第三册 视觉生成 | [书稿/第三册 视觉生成/00 目录总览.md](书稿/第三册%20视觉生成/00%20目录总览.md) |
 
-第二册由原《现代视觉语言模型》书稿迁入；第一、三册目前仅有粗目录。
+第二册由原《现代视觉语言模型》书稿迁入。第三册正文在写；站点由 `网站/`（mkdocs + `sync_content.py`）生成，线上在 [shippingwang.com/book/vision/](https://shippingwang.com/book/vision/)。
 
 姊妹书：《现代大模型》→ <https://github.com/shippingwang/llm>
