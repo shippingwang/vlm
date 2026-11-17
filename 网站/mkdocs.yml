@@ -91,11 +91,36 @@ nav:
     - "第 3 章 视觉表示": 03-generation/05.md
     - "第 4 章 扩散模型": 03-generation/06.md
     - "第 5 章 分数与流": 03-generation/07.md
-    - "第四部分 视频生成": 03-generation/08.md
-    - "第 16 章 视频表示": 03-generation/09.md
-    - "第 17 章 视频模型": 03-generation/10.md
-    - "第 18 章 运动控制": 03-generation/11.md
-    - "第 19 章 长视频": 03-generation/12.md
-    - "第 20 章 多镜头": 03-generation/13.md
-    - "第 21 章 音视频": 03-generation/14.md
+    - "第二部分 生成方法": 03-generation/08.md
+    - "第 6 章 采样方法": 03-generation/09.md
+    - "第 7 章 少步生成": 03-generation/10.md
+    - "第 8 章 视觉自回归": 03-generation/11.md
+    - "第 9 章 掩码生成": 03-generation/12.md
+    - "第三部分 图像生成": 03-generation/13.md
+    - "第 10 章 条件生成": 03-generation/14.md
+    - "第 11 章 生成架构": 03-generation/15.md
+    - "第 12 章 像素生成": 03-generation/16.md
+    - "第 13 章 图像编辑": 03-generation/17.md
+    - "第 14 章 主体适配": 03-generation/18.md
+    - "第 15 章 统一模型": 03-generation/19.md
+    - "第四部分 视频生成": 03-generation/20.md
+    - "第 16 章 视频表示": 03-generation/21.md
+    - "第 17 章 视频模型": 03-generation/22.md
+    - "第 18 章 运动控制": 03-generation/23.md
+    - "第 19 章 长视频": 03-generation/24.md
+    - "第 20 章 多镜头": 03-generation/25.md
+    - "第 21 章 音视频": 03-generation/26.md
+    - "第 22 章 视频编辑": 03-generation/27.md
+    - "第五部分 空间生成": 03-generation/28.md
+    - "第 23 章 三维生成": 03-generation/29.md
+    - "第 24 章 交互生成": 03-generation/30.md
+    - "第六部分 训练与推理": 03-generation/31.md
+    - "第 25 章 训练方法": 03-generation/32.md
+    - "第 26 章 生成评测": 03-generation/33.md
+    - "第 27 章 推理优化": 03-generation/34.md
+    - "附录":
+      - "附录A 概率与变分": 03-generation/35.md
+      - "附录B 连续生成": 03-generation/36.md
+      - "附录C 公式与记号": 03-generation/37.md
+      - "附录D 最小实现": 03-generation/38.md
 # END_NAV
