@@ -86,19 +86,19 @@ nav:
     - 03-generation/index.md
     - "序章 案例：视觉生成": 03-generation/01.md
     - "第一部分 生成基础": 03-generation/02.md
-    - "第 1 章 生成建模": 03-generation/03.md
+    - "第 1 章 基础数学": 03-generation/03.md
     - "第 2 章 对抗生成": 03-generation/04.md
     - "第 3 章 视觉表示": 03-generation/05.md
     - "第 4 章 扩散模型": 03-generation/06.md
-    - "第 5 章 分数与流": 03-generation/07.md
+    - "第 5 章 分数匹配与流生成": 03-generation/07.md
     - "第二部分 生成方法": 03-generation/08.md
     - "第 6 章 采样方法": 03-generation/09.md
-    - "第 7 章 少步生成": 03-generation/10.md
+    - "第 7 章 少步生成与蒸馏": 03-generation/10.md
     - "第 8 章 视觉自回归": 03-generation/11.md
     - "第 9 章 掩码生成": 03-generation/12.md
     - "第三部分 图像生成": 03-generation/13.md
     - "第 10 章 条件生成": 03-generation/14.md
-    - "第 11 章 生成架构": 03-generation/15.md
+    - "第 11 章 Transformer生成架构": 03-generation/15.md
     - "第 12 章 像素生成": 03-generation/16.md
     - "第 13 章 图像编辑": 03-generation/17.md
     - "第 14 章 主体适配": 03-generation/18.md
